@@ -1,0 +1,11 @@
+:root{
+    /*FONT*/
+    --font-dm-sans: "DM sans", sans-serif;
+
+
+/*COLORS*/
+--bg-icon: #5f2391;
+--bg-arrow-color: rgba(#5f2381)
+}
+
+/* variáveis ajudam a deixar o código sem repetições*/
